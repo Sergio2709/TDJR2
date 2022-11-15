@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "db-connection": "mongodb+srv://usuario-votaciones:votaciones2022@votaciones.dclcpcx.mongodb.net/votaciones?retryWrites=true&w=majority",
+  "db-name": "votaciones"
+}
